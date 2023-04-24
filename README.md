@@ -5,11 +5,11 @@ Disocrd-Bot-Save-Message](https://github.com/Coca-Sprite/Disocrd-Bot-Save-Messag
 2.
 ```
 pip install datetime
-```
+```  
 3.
 ```
 pip install discord.py
-```
+```  
 4.Replace "Your_Token" with your Token    
 5.Use **admin** run the code(Prevent messages from being saved due to insufficient permissions)
 
