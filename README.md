@@ -1,7 +1,7 @@
 # Disocrd-Bot-Save-Message
 
 1. Download [
-Disocrd-Bot-Save-Message](https://github.com/Coca-Sprite/Disocrd-Bot-Save-Message-/blob/main/Discord%20Bot%E5%84%B2%E5%AD%98%E8%A8%8A%E6%81%AF%E6%A9%9F%E5%99%A8%E4%BA%BA.py) in ur server or computer  
+Disocrd-Bot-Save-Message](https://github.com/Coca-Sprite/Disocrd-Bot-Save-Message/blob/main/main.py) in ur server or computer  
 2. 
 ```
 pip install datetime
