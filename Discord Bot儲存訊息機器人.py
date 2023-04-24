@@ -49,5 +49,5 @@ channel：{message.channel}
 time：{gettime()}
 ------------------------------\n""")
 
-# Replace "Your_Token" with your Code
+# Replace "Your_Token" with your Token
 client.run("Your_Token")
